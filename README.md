@@ -5,10 +5,9 @@
 - Currently: CS student at Wilfrid Laurier University
 - Previously: Web Developer Intern at North York Arts
 
-## 💻 Full-Stack Developer & Sports Enthusiast
+## 💻 Full-Stack Developer
 
-Whether it's learning a new programming language or scoring goals on the soccer field, my passion lies in the thrill of creation and competition.
-I thrive on the challenges that come with full-stack development. With experience in full-stack development using a range of technologies including **Python, Java, JavaScript, React, and Node.js** I'm always ready to tackle new challenges.
+I'm Frank Obedi, an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning web apps that deliver an exceptional user experience.
 
 ## 🚀 Projects:
 
