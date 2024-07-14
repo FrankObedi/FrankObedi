@@ -2,12 +2,13 @@
 
 #### I'm Frank Obedi
 
-- Currently: CS student at Wilfrid Laurier University
-- Previously: Web Developer Intern at North York Arts
+- **Currently:** MLH Fellow on the Production Engineering track with Meta
+- **Previously:** Web Developer Intern at North York Arts
+- **Education:** CS student at Wilfrid Laurier University
 
 ## 💻 Full-Stack Developer
 
-I'm Frank Obedi, an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning web apps that deliver an exceptional user experience.
+I'm an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning web apps that deliver an exceptional user experience.
 
 ## 🚀 Projects:
 
