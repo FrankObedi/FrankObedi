@@ -8,7 +8,7 @@
 
 ## 💻 Full-Stack Developer
 
-I'm an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning web apps that deliver an exceptional user experience.
+I'm an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning full-stack apps that deliver an exceptional user experience.
 
 ## 🚀 Projects:
 
@@ -16,10 +16,5 @@ From a Connect 4 game AI system to a global weather app, my portfolio is a testa
 
 ## 🌱 Lifelong Learner:
 
-Currently, I'm broadening my expertise by exploring **PHP and MySQL**, with a focus on building dynamic, database-driven web applications. <br>
-In school I'm currently studying the following course:
-
-- CP476 - Internet Computing
-- CP423 - Text Retrieval and Search Engines
-
+Currently, I'm broadening my expertise by exploring **PHP, MySQL and Linux**, with a focus on building dynamic, database-driven web applications. <br>
 I'm eager to collaborate with like-minded individuals who are as dedicated to **technology and teamwork** as I am. Let's connect and innovate together.
