@@ -8,7 +8,7 @@
 
 ## 💻 Full-Stack Developer
 
-I'm an aspiring full-stack developer and MLH Fellow. My passion lies in creating stunning full-stack apps that deliver an exceptional user experience.
+I'm an aspiring full-stack developer and MLH Fellow. My passion lies in creating full-stack applications that deliver an exceptional user experience.
 
 ## 🚀 Projects:
 
