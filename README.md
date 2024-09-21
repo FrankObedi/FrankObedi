@@ -15,5 +15,5 @@ From a Connect 4 game AI system to a global weather app, my portfolio is a testa
 
 ## 🌱 Lifelong Learner:
 
-Currently, I'm broadening my expertise by exploring **PHP, MySQL and Linux**, with a focus on building dynamic, database-driven web applications. <br>
+Currently, I'm broadening my expertise by exploring **PHP, MySQL and Linux**, with a focus on building dynamic, database-driven web applications.
 I'm eager to collaborate with like-minded individuals who are as dedicated to **technology and teamwork** as I am.
