@@ -1,21 +1,17 @@
-# Hi there 👋
+### Hi there 👋
 
 #### I'm Frank Obedi
 
-- **Currently:** 4th year CS student at WLU
-- **Previously:**
-  - Production Engineering fellow at MLH and Meta
-  - Web Developer Intern at North York Arts 
+🎓 **Currently:** 4th year CS student at WLU </br>
+🕰️ **Previously:** </br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  - Production Engineering fellow at MLH and Meta</br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  - Web Developer Intern at North York Arts </br>
+##
+### 💻 Full-Stack Developer
+&nbsp;&nbsp;&nbsp;🚀 I'm an aspiring full-stack developer passionate about building scalable, and reliable applications. </br>
+&nbsp;&nbsp;&nbsp;🧑‍💻**What I use:** Python, Java, JS
+##
+### 📧 Reach me
+&nbsp;[LinkedIn](https://www.linkedin.com/in/frankmobedi/)
 
-## 💻 Full-Stack Developer
 
-I'm an aspiring full-stack developer and passion lies in creating scalable and reliable applications that deliver an exceptional user experience.
-
-## 🚀 Projects:
-
-From a Connect 4 game AI system to a global weather app, my portfolio is a testament to my commitment to full-stack development and user-centric design.
-
-## 🌱 Lifelong Learner:
-
-Currently, I'm broadening my expertise by exploring **PHP, MySQL and Linux**, with a focus on building dynamic, database-driven web applications.
-I'm eager to collaborate with like-minded individuals who are as dedicated to **technology and teamwork** as I am.
