@@ -4,7 +4,7 @@
 
     🎓 Currently: 4th year CS student at WLU
     🕰️ Previously:
-          - Production Engineering fellow at MLH and Meta
+          - Production Engineering Fellow at MLH and Meta
           - Web Developer Intern at North York Arts
 #### 🧑‍💻 Full-Stack Developer
     🚀 I'm an aspiring full-stack developer passionate about building scalable, and reliable applications.
