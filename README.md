@@ -3,7 +3,7 @@
 #### I'm Frank Obedi
 
     🎓 Currently: 4th year CS student at WLU
-    🕰️ Previously:
+    🕰️ Experience:
           - Production Engineering Fellow at MLH and Meta
           - Web Developer Intern at North York Arts
 #### 🧑‍💻 Full-Stack Developer
